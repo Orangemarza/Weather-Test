@@ -24,8 +24,8 @@ def getWeather(canvas):
     label2.config(text = final_data)
 
 canvas = tk.Tk()
-canvas.geometry("600x500")
-canvas.title("Weather App")
+canvas.geometry("600x600")
+canvas.title("Weather Man")
 f= ("poppins", 15, "bold")
 t= ("poppins", 35, "bold")
 
